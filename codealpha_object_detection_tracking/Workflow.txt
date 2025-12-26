@@ -1,1 +1,10 @@
+Webcam / Video
+   ↓
+YOLO (Object Detection)
+   ↓
+Bounding Boxes + Class Names
+   ↓
+SORT Tracker (Tracking IDs)
+   ↓
+Live Output Screen
 
