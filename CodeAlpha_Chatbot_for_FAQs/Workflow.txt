@@ -1,0 +1,11 @@
+FAQs (Q&A)
+   ↓
+Text Preprocessing (clean, tokenize)
+   ↓
+Vectorization (TF-IDF)
+   ↓
+Cosine Similarity
+   ↓
+Best Matching Question
+   ↓
+Answer shown to user
